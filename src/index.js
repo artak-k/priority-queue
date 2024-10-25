@@ -1,6 +1,5 @@
 const PriorityQueue = require("./PriorityQueue.js");
 
-// if typescript is required can rewrite it
 ( (pq) => {
     pq.insert('task1', 5);
     pq.insert('task2', 3);
